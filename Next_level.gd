@@ -1,6 +1,6 @@
 extends Area2D
 
-var level_names = ["Winter_1","winter2", "Fall_Level2", "Spring_Level_3", "Summer_Level_4", "end_game999"]
+var level_names = ["winter_1","winter_2", "fall_3", "spring_4", "summer_5", "end_game999"]
 
 	
 
